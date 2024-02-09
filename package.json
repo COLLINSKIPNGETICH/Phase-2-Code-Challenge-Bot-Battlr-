@@ -1,0 +1,19 @@
+{
+  "name": "phase-2-code-challenge-bot-battlr-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/COLLINSKIPNGETICH/Phase-2-Code-Challenge-Bot-Battlr-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/COLLINSKIPNGETICH/Phase-2-Code-Challenge-Bot-Battlr-/issues"
+  },
+  "homepage": "https://github.com/COLLINSKIPNGETICH/Phase-2-Code-Challenge-Bot-Battlr-#readme"
+}
