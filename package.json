@@ -2,8 +2,9 @@
   "name": "phase-2-code-challenge-bot-battlr-",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
+    "start": "react-scripts start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/COLLINSKIPNGETICH/Phase-2-Code-Challenge-Bot-Battlr-/issues"
   },
-  "homepage": "https://github.com/COLLINSKIPNGETICH/Phase-2-Code-Challenge-Bot-Battlr-#readme"
+  "homepage": "https://github.com/COLLINSKIPNGETICH/Phase-2-Code-Challenge-Bot-Battlr-#readme",
+  "dependencies": {
+    "react-router-dom": "^6.22.0"
+  }
 }
